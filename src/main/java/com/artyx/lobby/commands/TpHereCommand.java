@@ -12,7 +12,7 @@ public class TpHereCommand {
     @Command(
             name = "tphere",
             aliases = {"puxar"},
-            permission = "wand.tphere",
+            permission = "artyx.tphere",
             usage = "tphere [jogador]"
     )
 
