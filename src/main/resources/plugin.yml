@@ -1,0 +1,4 @@
+name: Lobby
+author: SrMinister_
+version: 1.0-SNAPSHOT
+main: com.artyx.lobby.LobbyPlugin
