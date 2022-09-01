@@ -12,7 +12,7 @@ public class InvseeCommand {
     @Command(
             name = "invsee",
             aliases = {"inventory", "inventario"},
-            permission = "wand.invsee",
+            permission = "artyx.invsee",
             usage = "invsee [jogador]"
     )
 
