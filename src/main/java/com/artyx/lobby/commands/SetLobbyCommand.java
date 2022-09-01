@@ -14,7 +14,7 @@ public class SetLobbyCommand {
     @Command(
             name = "setlobby",
             aliases = {"setspawn"},
-            permission = "wand.setlobby"
+            permission = "artyx.setlobby"
     )
 
     public void handleSetLobby(
