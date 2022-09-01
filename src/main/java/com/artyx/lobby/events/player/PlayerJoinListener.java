@@ -25,18 +25,18 @@ public class PlayerJoinListener implements Listener {
         TabListUtil.sendTab(
                 player,
                 "\n" +
-                        "§eϟ §9§lREDE WAND §eϟ§f " +
+                        "§eϟ §6§lARTYX MC §eϟ§f " +
                         "\n" +
-                        "§fwww.redewand.com" +
+                        "§fwww.artyxmc.com" +
                         "\n",
                 "\n"+
-                        "§bTwitter: §ftwitter.com/@ServidoresWand" +
+                        "§eTwitter: §ftwitter.com/@ServidoresArtyx" +
                         "\n" +
-                        " §b Discord: §fdiscord.redewand.com" +
+                        " §e Discord: §fdiscord.artyxmc.com" +
                         "\n\n" +
                         "§7  Adquira suas vantagens acessando nosso site:  " +
                         "\n" +
-                        "§f  www.redewand.com" +
+                        "§f  www.artyxmc.com" +
                         "\n"
         );
 
