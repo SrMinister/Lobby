@@ -14,7 +14,7 @@ public class GameModeCommand {
     @Command(
             name = "gamemode",
             aliases = {"gm"},
-            permission = "wand.gamemode",
+            permission = "artyx.gamemode",
             usage = "gamemode [modo] [jogador]"
     )
 
