@@ -12,7 +12,7 @@ public class TpCommand {
     @Command(
             name = "tp",
             aliases = {"teleport"},
-            permission = "wand.tp",
+            permission = "artyx.tp",
             usage = "tp [jogador]"
     )
 
