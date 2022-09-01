@@ -52,7 +52,7 @@ public class FlyCommand {
                 return;
             }
 
-            player.setAllowFlight(false);
+            target.setAllowFlight(false);
             Messages.SUCCESS.sendMessage(
                     player,
                     "§cVocê desativou o modo de voô para " + target.getName()
