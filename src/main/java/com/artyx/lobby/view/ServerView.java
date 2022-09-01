@@ -52,14 +52,14 @@ public class ServerView extends View {
                             "§7Adquira suas vantagens em nosso",
                             "§7web site acessando:",
                             "",
-                            "§8 ➟ §fwww.redewand.com",
+                            "§8 ➟ §fwww.artyxmc.com",
                             ""
                     ).build()
             );
         }).onClick((handler -> {
             Messages.SUCCESS.sendMessage(
                     context.getPlayer(),
-                    "§eWebSite: §8➟ §fwww.redewand.com"
+                    "§eWebSite: §8➟ §fwww.artyxmc.com"
             );
             context.getPlayer().closeInventory();
         }));
